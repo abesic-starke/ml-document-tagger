@@ -1,19 +1,5 @@
-# subspace2
+Copyright (c) 2022 Alen Bešić.
 
-## Project setup
-```
-yarn install
-```
+All rights reserved.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+You may not use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of this software without the express written permission.
